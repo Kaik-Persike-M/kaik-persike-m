@@ -3,7 +3,7 @@
 ##
 
 - 💻 Técnico em Informática para Internet;
-- 👨‍💻 Graduando em Tecnólogo para Redes de Computadores...
+- 👨‍💻 Graduando em Tecnologia para Análise e Desenvolvimento de Sistemas...
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
