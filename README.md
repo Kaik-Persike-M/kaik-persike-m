@@ -6,10 +6,9 @@
 💻 Técnico em Informática para Internet
 
 <div style="display: inline_block">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px" 
+  <img align="left" alt="" height="150" style="border-radius:50px" 
       src="https://66.media.tumblr.com/9e3cc0dc120a12857d45c1c805c3d125/tumblr_mfbfb2tnCO1rfjowdo1_500.gif">
 </div>
-
 
 ##
 
