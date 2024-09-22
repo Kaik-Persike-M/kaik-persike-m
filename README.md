@@ -37,6 +37,10 @@
 
 ### Habilidades
 
+<div align="center">
+  <img align="right" alt="" height="200" src="https://66.media.tumblr.com/9e3cc0dc120a12857d45c1c805c3d125/tumblr_mfbfb2tnCO1rfjowdo1_500.gif">
+</div>
+
 [![Github stats](https://github-readme-stats.vercel.app/api?username=kaikpersike&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <div> 
