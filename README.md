@@ -35,6 +35,8 @@
 ### Objetivo
 <p><code>Meu objetivo é transformar a forma como encaramos o mundo, e pretendo fazer isso através do que sei e do que tenho a aprender. Quero contribuir para a sociedade, ser solidário à ela. Sonho em fazer parte de um mundo mais justo e sustentável.</code></p>
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=kaikpersike&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <div> 
 
   <a href = "mailto:kaikpersikemai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
