@@ -18,7 +18,7 @@
 
 ### Sobre mim
 
-<p><code>Como já apresentado, o meu nome é Kaik e tenho 21 anos. <span>ANTES DE TUDO, SOU HUMANO</span>, assim como você, espero. Sou formado como Técnico de Informática para Internet pela Etec de Itanhaém, cidade onde nasci e vivo atualmente. Sou graduando em Tecnologia em Análise e Desenvolvimento de Sistemas pelo IFSP de Cubatão</code></p>
+<p><b>Como já apresentado, o meu nome é Kaik e tenho 21 anos. Sou formado como Técnico de Informática para Internet pela Etec de Itanhaém, cidade onde nasci e vivo atualmente. Sou graduando em Tecnologia em Análise e Desenvolvimento de Sistemas pelo IFSP de Cubatão</b></p>
 
 ### Paixão
 <p><code>Comentando um pouco a respeito de meus <i>hobbies</i>, há muitas coisas que eu adoro fazer, e uma delas com certeza é programar. Possuo sim um vínculo muito forte com a tecnologia, pois eu cresci com ela e vivo com ela. Mas minha paixão mesmo é, sem sobra de dúvidas, a natureza. </code></p>
