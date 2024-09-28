@@ -21,7 +21,7 @@
 <p><b>Como já apresentado, o meu nome é Kaik e tenho 21 anos. Sou formado como Técnico de Informática para Internet pela Etec de Itanhaém, cidade onde nasci e vivo atualmente. Sou graduando em Tecnologia em Análise e Desenvolvimento de Sistemas pelo IFSP de Cubatão</b></p>
 
 ### Paixão
-<p><code>Comentando um pouco a respeito de meus <i>hobbies</i>, há muitas coisas que eu adoro fazer, e uma delas com certeza é programar. Possuo sim um vínculo muito forte com a tecnologia, pois eu cresci com ela e vivo com ela. Mas minha paixão mesmo é, sem sobra de dúvidas, a natureza. </code></p>
+<p><b>Comentando um pouco a respeito de meus <i>hobbies</i>, há muitas coisas que eu adoro fazer, e uma delas com certeza é programar. Possuo sim um vínculo muito forte com a tecnologia, pois eu cresci com ela e vivo com ela. Mas minha paixão mesmo é, sem sobra de dúvidas, a natureza. </b></p>
 
 <div align="center">
   <img align="center" alt="Paisagem da natureza" height="auto" width="100%"
@@ -31,7 +31,7 @@
 > [Image source](https://libg.s3.us-east-2.amazonaws.com/download/Real-Beauty-Of-Nature.jpg)
 
 ### Objetivo
-<p><code>Meu objetivo é transformar a forma como encaramos o mundo, e pretendo fazer isso através do que sei e do que tenho a aprender. Quero contribuir para a sociedade, ser solidário à ela. Sonho em fazer parte de um mundo mais justo e sustentável.</code></p>
+<p><b>Meu objetivo é transformar a forma como encaramos o mundo, e pretendo fazer isso através do que sei e do que tenho a aprender. Quero contribuir para a sociedade, ser solidário à ela. Sonho em fazer parte de um mundo mais justo e sustentável.</b></p>
 
 ##
 
