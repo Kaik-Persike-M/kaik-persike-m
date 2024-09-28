@@ -28,8 +28,6 @@
       src="https://libg.s3.us-east-2.amazonaws.com/download/Real-Beauty-Of-Nature.jpg">
 </div>
 
-> [Image source](https://libg.s3.us-east-2.amazonaws.com/download/Real-Beauty-Of-Nature.jpg)
-
 ### Objetivo
 <p><b>Meu objetivo é transformar a forma como encaramos o mundo, e pretendo fazer isso através do que sei e do que tenho a aprender. Quero contribuir para a sociedade, ser solidário à ela. Sonho em fazer parte de um mundo mais justo e sustentável.</b></p>
 
