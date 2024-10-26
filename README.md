@@ -16,14 +16,6 @@
 
 <br>
 
-### Sobre mim
-
-<p><b>Como já apresentado, o meu nome é Kaik. Sou formado como Técnico de Informática para Internet pela Etec de Itanhaém, cidade onde nasci e vivo atualmente. Sou graduando em Tecnologia em Análise e Desenvolvimento de Sistemas pelo IFSP de Cubatão</b></p>
-
-##
-
-### Habilidades
-
 <div align="center">
   <img align="right" alt="" height="200" src="https://66.media.tumblr.com/9e3cc0dc120a12857d45c1c805c3d125/tumblr_mfbfb2tnCO1rfjowdo1_500.gif">
 </div>
