@@ -2,10 +2,10 @@
 
 -------
 
-- :brazil: I'm a software student from Brazil.
+- 🏝️ I'm a software student from Brazil.
 - :school: I'm studying Systems Analysis and Development at IFSP.
 
-[LinkedIn](https://www.linkedin.com/in/kaik-persike-maiorquino-91329b231/) | 
+[LinkedIn](https://www.linkedin.com/in/kpersike) | 
 
 <!-- <div style="display: inline_block"> -->
 <div align="center">
